@@ -48,5 +48,5 @@ Sistema de gestão veterinária desenvolvido durante a Iniciação Científica.
 ---
 
 ### 📊 Estatísticas
-![Stiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=StivenF0&show_icons=true&theme=tokyonight)
+![Stiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=StivenF0&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenF0&layout=compact&theme=tokyonight)
