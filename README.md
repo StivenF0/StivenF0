@@ -35,7 +35,7 @@ Sistema completo para gestão hoteleira.
 Implementação de fluxos de dados e tratamento de informações.
 - Focado em transformar dados brutos em insights estruturados, refletindo minha experiência prática na área.
 
-#### 🏥 [HOVET-Protótipo](https://github.com/StivenF0) \*_Repositório Privado_\*
+#### 🏥 [Hovet Hospital System](https://github.com/StivenF0) \*_Repositório Privado_\*
 Sistema de gestão veterinária desenvolvido durante a Iniciação Científica.
 - **Stacks:** Python, Django, Tailwind e Alpine.js.
 
