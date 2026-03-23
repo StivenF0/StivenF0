@@ -1,19 +1,52 @@
-# Oi, sou Stiven! 👋
+# Olá, eu sou o Stiven! 👋
 
-Sou um desenvolvedor de software e estudante de Ciências da Computação apaixonado por tecnologia e aprendizado contínuo. Atualmente, estou trabalhando com diversas tecnologias para criar soluções eficientes e inovadoras.
+### 🎓 Estudante de Ciência da Computação na UFERSA (Mossoró/RN)
+Atualmente focado em **Desenvolvimento Full Stack** e **Engenharia de Dados**. Com experiência prática em suporte técnico e infraestrutura de dados, busco minha próxima oportunidade como **Desenvolvedor Júnior**.
 
-![Banner](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2szNzE3MWgwYW5jY20yZnZjNHQ2a2N1dWR0dnh0YXBnd2Vqcnh5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
+---
 
-## 🚀 Tecnologias
-- Linguagens: Python, JavaScript
-- Frameworks e Bibliotecas: Node.js, Flask, React, Next
-- Banco de Dados: SQLite, MySQL
+### 🚀 Sobre Mim
+- 🔬 **Iniciação Científica:** Pesquisador no projeto HOVET, aplicando tecnologias modernas para soluções acadêmicas.
+- 🛠️ **Experiência em Dados:** Atuei como estagiário em Engenharia de Dados, lidando com fluxos de ETL e estruturação de bases de dados.
+- 🎯 **Objetivo:** Construir aplicações escaláveis e pipelines de dados eficientes que resolvam problemas reais.
 
-## 📚 Formação
-Estou cursando Ciências da Computação na UFERSA, onde estou aprimorando minhas habilidades em programação, algoritmos, estruturas de dados, e muito mais.
+---
 
-## 💬 Contato
-Se você deseja saber mais sobre meu trabalho ou discutir oportunidades de colaboração, sinta-se à vontade para entrar em contato:
+### 🛠️ Stacks & Ferramentas
 
-- [Email](mailto:stivenfonseca201@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/stiven-dev/)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | Java (Spring Boot), Python (Django), PostgreSQL |
+| **Frontend** | Next.js, React, Tailwind CSS, Alpine.js |
+| **Eng. de Dados** | SQL, ETL Pipelines, Integração de Dados |
+| **DevOps/Tools** | Git, Docker, Linux |
+
+---
+
+### 📂 Projetos em Destaque
+
+#### 🏨 [Stiven's Hotel System](https://github.com/StivenF0/stivens-hotel)
+Sistema completo para gestão hoteleira.
+- **Backend:** Spring Boot com arquitetura limpa.
+- **Frontend:** Next.js para uma interface performática e moderna.
+- **DB:** PostgreSQL.
+
+#### 📊 [Pipeline de Dados](https://github.com/StivenF0/pb-stiven-felipe)
+Implementação de fluxos de dados e tratamento de informações.
+- Focado em transformar dados brutos em insights estruturados, refletindo minha experiência prática na área.
+
+#### 🏥 [HOVET-Protótipo](https://github.com/StivenF0) \*_Repositório Privado_\*
+Sistema de gestão veterinária desenvolvido durante a Iniciação Científica.
+- **Stacks:** Python, Django, Tailwind e Alpine.js.
+
+---
+
+### 📫 Vamos conversar?
+- **LinkedIn:** [linkedin.com/in/stiven-dev/](https://www.linkedin.com/in/stiven-dev/)
+- **GitHub:** [github.com/StivenF0](https://github.com/StivenF0)
+
+---
+
+### 📊 Estatísticas
+![Stiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=StivenF0&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StivenF0&layout=compact&theme=tokyonight)
